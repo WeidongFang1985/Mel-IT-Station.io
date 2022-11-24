@@ -44,3 +44,24 @@ body {
     bottom: 20px;
     right: 16px;
 }
+
+@media screen and (max-width: 500px) {
+    body {
+        margin: 20px 10px;
+        display: flex;
+        justify-content: center;
+    }
+
+    .main-content {
+        width: 340px;
+        text-align: center;
+    }
+
+    .card-title {
+        margin-right: 180px;
+    }
+
+    .card-description {
+        margin-right: 70px;
+    }
+}
