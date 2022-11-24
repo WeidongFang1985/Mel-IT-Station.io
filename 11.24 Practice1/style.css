@@ -54,14 +54,5 @@ body {
 
     .main-content {
         width: 340px;
-        text-align: center;
-    }
-
-    .card-title {
-        margin-right: 180px;
-    }
-
-    .card-description {
-        margin-right: 70px;
     }
 }
